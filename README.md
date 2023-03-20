@@ -6,7 +6,7 @@ Core Bluetooth Composable is library that bridges the Composable Architecture an
 
 ## Basic Usage
 
-To use ComposableCoreLocation in your application, you can add an action to your domain that represents all of the actions the manager can emit via the `CBCentralManagerDelegate` and `CBPeripheralManagerDelegate` methods:
+To use CoreBluetoothComposable in your application, you can add an action to your domain that represents all of the actions the manager can emit via the `CBCentralManagerDelegate` and `CBPeripheralManagerDelegate` methods:
 
 ```swift
 import CoreBluetoothComposable
